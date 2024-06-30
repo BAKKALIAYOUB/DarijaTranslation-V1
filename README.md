@@ -1,6 +1,7 @@
 # Model Card for DarijaTranslation-V1
 
-This model translates text from English to Darija (Moroccan Arabic).
+This model translates text from English to Darija (Moroccan Arabic). <br>
+HuggingFace :  https://huggingface.co/BAKKALIAYOUB/DarijaTranslation-V1
 
 
 ### Model Description
